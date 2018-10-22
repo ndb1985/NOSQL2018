@@ -128,7 +128,6 @@ public class Controller {
   	//4)Comentar  Comentario
   	/* JSON de ejemplo
     {
-    "id": 123,
     "email": "user@mail.com",
     "textoComentario": "Lorem ipsum dolor asimet."
     }
